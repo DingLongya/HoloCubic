@@ -15,7 +15,7 @@
 
 首先在 github 上下载稚晖君HoloCubic项目，从 github 上下载项目需要用到 git ，可以直接去 https://git-scm.com/download/win 下载安装。
 
-![contents](https://github.com/DingLongya/HoloCubic/blob/main/images/1.png)
+![contents](https://github.com/DingLongya/HoloCubic/blob/main/images/git_1.png)
 
 安装完成后，新建一个文件夹，在文件夹中打开 git （git 的打开可以鼠标右键，选择Git Bash Here）。
 
