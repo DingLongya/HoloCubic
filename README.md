@@ -9,5 +9,71 @@
 
 ## 硬件部分
 
-硬件部分需要的软件有 Altium Designer ，这是一个将原理图设计、电路仿真、PCB绘制编辑、拓扑逻辑自动布线、信号完整性分析和设计输出等技术的完美融合，为设计者提供了全新的设计解决方案，使设计者可以轻松进行设计，熟练使用这一软件使电路设计的质量和效率大大提高。
+硬件部分需要的软件有 Altium Designer ，这是一个将原理图设计、电路仿真、PCB 绘制编辑、拓扑逻辑自动布线、信号完整性分析和设计输出等技术的完美融合，为设计者提供了全新的设计解决方案，使设计者可以轻松进行设计，熟练使用这一软件使电路设计的质量和效率大大提高。
+
+### HoloCubic 项目的下载
+
+首先在 github 上下载稚晖君HoloCubic项目，从 github 上下载项目需要用到 git ，可以直接去 https://git-scm.com/download/win 下载安装。
+
+<img src="file:///C:\Users\lenono\AppData\Roaming\Tencent\Users\2284581470\QQ\WinTemp\RichOle\3MP_4MZ1]JW`05X}@C72MVS.png" alt="img" style="zoom:50%;" />
+
+安装完成后，新建一个文件夹，在文件夹中打开 git （git 的打开可以鼠标右键，选择Git Bash Here）。
+
+<img src="file:///C:\Users\lenono\AppData\Roaming\Tencent\Users\2284581470\QQ\WinTemp\RichOle\SWIDCCP~J7R8GB@EU]3L$6N.png" alt="img" style="zoom:50%;" />
+
+下面就是输入命令下载项目了，找到源项目的 github 地址，进入进去点击 Code 会发现有一个 ssh 地址，将它复制出来。
+
+<img src="file:///C:\Users\lenono\AppData\Roaming\Tencent\Users\2284581470\QQ\WinTemp\RichOle\7[E0PQPNB0$ZW_]VN~E31@D.png" alt="img" style="zoom:50%;" />
+
+然后返回到桌面刚刚打开的 git 中，输入命令进行下载，下载的速度可能还会有一点的慢，我用了 VPN 所以可能稍微快一些。
+
+```git
+git clone https://github.com/peng-zhihui/HoloCubic.git
+```
+
+这个命令是将远程仓库 HoloCubic 下载到当前目录下，在给 git 中复制项目地址的时候，使用原来的粘贴是不可以的，会用到 `Shift+Insert`将地址复制到 git 中，然后等待下载完成就可以了。
+
+<img src="C:\Users\lenono\Desktop\3.png" style="zoom:50%;" />
+
+下载完的这个文件夹就是项目的所有文件了，可以用相应的软件将它打开来使用了。
+
+### 元件的购买
+
+首先我们使用 Altium Designer 来打开硬件的第一个文件夹，文件路径应该是 ~\HoloCubic\1.Hardware\Naive Version\HoloCubic-Assembled ，后面的一部分地址是相同的。
+
+<img src="C:\Users\lenono\Desktop\L6HAGR6@61RUYLFL17X1VLF.png" style="zoom:50%;" />
+
+打开后点击 `Projects`就能看到工程文件了，然后需要输出元件表，点击`ExtendBoard.PcbDoc`就可以看到板子的 PCB 图，按下 `3`就会显示这个板子的三维图片，在三维模式下，按住鼠标右键拖拽，`鼠标右键+Shift`可以翻转查看，`Ctrl+鼠标滚轮`可以放大和缩小，同理，在 `2`模式下，除了翻转，其他都一样。在二维模式下，按下`Reports`中的`Bill of Materials`输出元件表。
+
+<img src="C:\Users\lenono\Desktop\2F86LS(~MS4DV7@XS)T_{@1.png" style="zoom:50%;" />
+
+点击`Reports`中的`Bill of Materials`后，最后点击`Export`保存到指定位置就可以查看了。
+
+<img src="file:///C:\Users\lenono\AppData\Roaming\Tencent\Users\2284581470\QQ\WinTemp\RichOle\NV_]_X7{M]L0`~WW2LH_E]A.png" alt="img" style="zoom:50%;" />
+
+同理，输出 MainBoard.PcbDoc 的元件也是同样的操作。
+
+<img src="file:///C:\Users\lenono\AppData\Roaming\Tencent\Users\2284581470\QQ\WinTemp\RichOle\J(J@${)7MUIU6M~E~R_YVUM.png" alt="img" style="zoom:50%;" />
+
+至此，我们已经能找到两个板子的 PCB 图，能够找到所要购买的元件表。元件的购买可以去日常网购软件，也可以去嘉立创去买，下面是我总结的元件表，以及在嘉立创购买的价格，仅供参考。
+
+<img src="C:\Users\lenono\Desktop\1.png" style="zoom:80%;" />
+
+### PCB 板的打印
+
+PCB 板的打印我选择的是嘉立创，PCB 在线下单，也是通过朋友推荐的，因为以前没有打印过 PCB 板。嘉立创对新手好像有几次的免费打印，嘿嘿，主要是想白嫖啦！哈~ 只需要按照要求提交 2 个 PCB 板的电路图，就可以了。
+
+<img src="C:\Users\lenono\Desktop\2.png" style="zoom: 50%;" />
+
+这个网站感觉好高级，可以看到制作的实时进度，而且在公众号可以看到生产车间的直播，第一次打板子，感觉好高级的亚子。
+
+<img src="C:\Users\lenono\Desktop\资料\视频图片\OLO]K]X%F6DDDMF97$(S%)8.png" style="zoom:50%;" />
+
+### 焊接工具的购买
+
+因为以前自己没有焊过电路板，所以没有这些工具，简单的购买了一些必要的东西，大家可以参考一下。
+
+![](C:\Users\lenono\Desktop\5.png)
+
+
 
