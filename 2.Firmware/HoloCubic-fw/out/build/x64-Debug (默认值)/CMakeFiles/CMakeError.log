@@ -1,0 +1,56 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/lenono/Desktop/新建文件夹/HoloCubic/2.Firmware/HoloCubic-fw/out/build/x64-Debug (默认值)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:\VS2019\文件\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe cmTC_63fbb && [1/2] Building C object CMakeFiles\cmTC_63fbb.dir\CMakeCCompilerABI.c.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29110 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+cl: 命令行 warning D9035 :“o”选项已否决，并将在将来的版本中移除
+CMakeCCompilerABI.c
+[2/2] Linking C executable cmTC_63fbb
+FAILED: cmTC_63fbb 
+cmd.exe /C "cd . && C:\VS2019\文件\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe    CMakeFiles\cmTC_63fbb.dir\CMakeCCompilerABI.c.obj  -o cmTC_63fbb   && cd ."
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29110 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+cl: 命令行 warning D9035 :“o”选项已否决，并将在将来的版本中移除
+Microsoft (R) Incremental Linker Version 14.27.29110.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerABI.c.exe 
+/out:cmTC_63fbb.exe 
+CMakeFiles\cmTC_63fbb.dir\CMakeCCompilerABI.c.obj 
+LINK : fatal error LNK1181: 无法打开输入文件“CMakeFiles\cmTC_63fbb.dir\CMakeCCompilerABI.c.obj”
+ninja: build stopped: subcommand failed.
+
+
+
+
+Detecting CXX compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/lenono/Desktop/新建文件夹/HoloCubic/2.Firmware/HoloCubic-fw/out/build/x64-Debug (默认值)/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:\VS2019\文件\COMMON7\IDE\COMMONEXTENSIONS\MICROSOFT\CMAKE\Ninja\ninja.exe cmTC_b8372 && [1/2] Building CXX object CMakeFiles\cmTC_b8372.dir\CMakeCXXCompilerABI.cpp.obj
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29110 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+cl: 命令行 warning D9035 :“o”选项已否决，并将在将来的版本中移除
+CMakeCXXCompilerABI.cpp
+[2/2] Linking CXX executable cmTC_b8372
+FAILED: cmTC_b8372 
+cmd.exe /C "cd . && C:\VS2019\文件\VC\Tools\MSVC\14.27.29110\bin\Hostx64\x64\cl.exe     CMakeFiles\cmTC_b8372.dir\CMakeCXXCompilerABI.cpp.obj  -o cmTC_b8372   && cd ."
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.27.29110 版
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+cl: 命令行 warning D9035 :“o”选项已否决，并将在将来的版本中移除
+Microsoft (R) Incremental Linker Version 14.27.29110.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCXXCompilerABI.cpp.exe 
+/out:cmTC_b8372.exe 
+CMakeFiles\cmTC_b8372.dir\CMakeCXXCompilerABI.cpp.obj 
+LINK : fatal error LNK1181: 无法打开输入文件“CMakeFiles\cmTC_b8372.dir\CMakeCXXCompilerABI.cpp.obj”
+ninja: build stopped: subcommand failed.
+
+
+
+
