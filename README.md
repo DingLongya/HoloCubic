@@ -117,7 +117,7 @@ PCB 板的打印我选择的是嘉立创，PCB 在线下单，也是通过朋友
 
 ## 用 VS Code 仿真 LVGL
 
-安装这个仿真环境的好处在于不用每时每刻都往板子里面下载程序，看运行情况，有了这个仿真，就可以在电脑上进行调试了，调试完以后，在往板子上面下载，回很方便，第一步就是需要下载 MSYS2 配置环境，MSYS2 的下载地址：https://www.msys2.org/，直接下一步下一步安装就可以了。
+安装这个仿真环境的好处在于不用每时每刻都往板子里面下载程序，看运行情况，有了这个仿真，就可以在电脑上进行调试了，调试完以后，在往板子上面下载，回很方便，第一步就是需要下载 MSYS2 配置环境，MSYS2 的下载地址：https://www.msys2.org/ ，直接下一步下一步安装就可以了。
 
 ![](/images/ESYS2.png)
 
@@ -129,7 +129,7 @@ PCB 板的打印我选择的是嘉立创，PCB 在线下单，也是通过朋友
 
 ![](/images/ESYS_2.png)
 
-紧接着去https://github.com/Sakulaczx/platfrmioSimLvgl下载 **2_2.platfrmioSimLvgl** 工程，下载完以后，选择打开文件夹就可以了。
+紧接着去https://github.com/Sakulaczx/platfrmioSimLvgl 下载 **2_2.platfrmioSimLvgl** 工程，下载完以后，选择打开文件夹就可以了。
 
 ![](/images/PIO_ESYS_1.png)
 
