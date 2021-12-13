@@ -115,3 +115,12 @@ PCB 板的打印我选择的是嘉立创，PCB 在线下单，也是通过朋友
 
 ![](/images/ESP_4.png)
 
+## 用 VS Code 仿真 LVGL
+
+安装这个仿真环境的好处在于不用每时每刻都往板子里面下载程序，看运行情况，有了这个仿真，就可以在电脑上进行调试了，调试完以后，在往板子上面下载，回很方便，第一步就是需要下载 MSYS2 配置环境，MSYS2 的下载地址：https://www.msys2.org/，直接下一步下一步安装就可以了。
+
+![](/images/ESYS2.png)
+
+安装完以后，在 ESYS2 软件中执行命令`pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-SDL2`选择 Y 等待配置完毕。
+
+![](/images/ESYS.png)
