@@ -15,3 +15,11 @@
 ![](/images/Q_2.png)
 
 解决方法：网络的问题，需要翻墙，因为要下载安装一些东西，服务器在外国，所以很慢，建议翻墙多试试几次。
+
+
+
+3.在使用 VS Code 打开 platfrmioSimLvgl 的过程中，出现错误的情况，如下图
+
+![](/images/LV_1.png)
+
+解决方法：需要配置 C/C++环境，可以看教程https://blog.csdn.net/qq_29339467/article/details/104096661?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163936862216780366512016%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=163936862216780366512016&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-104096661.pc_search_result_control_group&utm_term=vscode%E9%85%8D%E7%BD%AEc%2B%2B%E7%8E%AF%E5%A2%83&spm=1018.2226.3001.4187来就可以了，我配置完以后就可以正常编译这个工程文件了，但是我自己建立的 .cpp 文件还是不可以，可能建立的有问题。 

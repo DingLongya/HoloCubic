@@ -124,3 +124,21 @@ PCB 板的打印我选择的是嘉立创，PCB 在线下单，也是通过朋友
 安装完以后，在 ESYS2 软件中执行命令`pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-SDL2`选择 Y 等待配置完毕。
 
 ![](/images/ESYS.png)
+
+接下来配置 ESYS2 的环境变量，电脑搜索打开到编辑系统环境变量，选择系统变量中的 Path ，点击新建，输入         C:\msys64\mingw64\bin，输入完点击确认。
+
+![](/images/ESYS_2.png)
+
+紧接着去https://github.com/Sakulaczx/platfrmioSimLvgl下载 **2_2.platfrmioSimLvgl** 工程，下载完以后，选择打开文件夹就可以了。
+
+![](/images/PIO_ESYS_1.png)
+
+点击VS Code 左下角对号进行编译，编译成功后直接 Upload 下载，运行成功了。
+
+![](/images/LV_2.png)
+
+修改源码 demo.c 中，恢复 90~140 行的代码，注释掉 88 行的代码，就可以显示下图了。
+
+![](/images/LV_3.png)
+
+到这里用 VS Code 仿真 LVGL 就算是成功了。
