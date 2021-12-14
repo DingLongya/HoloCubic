@@ -1,0 +1,504 @@
+﻿  lv_port_disp_template.c
+  lv_port_fs_template.c
+  lv_port_indev_template.c
+  lv_disp.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_disp.c(396,80): warning C4244: “函数”: 从“lv_anim_value_t”转换到“lv_opa_t”，可能丢失数据
+  lv_group.c
+  lv_indev.c
+  lv_obj.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_obj.c(3796,60): warning C4244: “函数”: 从“lv_style_int_t”转换到“lv_align_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_obj.c(4680,78): warning C4244: “函数”: 从“lv_anim_value_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_obj.c(4766,80): warning C4244: “函数”: 从“lv_anim_value_t”转换到“lv_opa_t”，可能丢失数据
+  lv_refr.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_refr.c(376,18): warning C4018: “<”: 有符号/无符号不匹配
+  lv_style.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(116,51): warning C4244: “函数”: 从“lv_style_property_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(116,1): warning C4267: “初始化”: 从“size_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(347,43): warning C4267: “return”: 从“size_t”转换到“uint16_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(666,29): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(829,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(831,63): warning C4244: “函数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(883,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(884,63): warning C4244: “函数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(933,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(934,63): warning C4244: “函数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(983,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(984,63): warning C4244: “函数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(985,72): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(1079,25): warning C4267: “return”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_core\lv_style.c(1088,33): warning C4267: “=”: 从“size_t”转换到“int16_t”，可能丢失数据
+  lv_draw_arc.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_draw\lv_draw_arc.c(150,56): warning C4244: “函数”: 从“lv_style_int_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_draw\lv_draw_arc.c(160,54): warning C4244: “函数”: 从“lv_style_int_t”转换到“uint8_t”，可能丢失数据
+  lv_draw_blend.c
+  lv_draw_img.c
+  lv_draw_label.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_draw\lv_draw_label.c(695,1): warning C4244: “初始化”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_draw\lv_draw_label.c(729,1): warning C4244: “初始化”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+  lv_draw_line.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_draw\lv_draw_line.c(429,56): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  lv_draw_mask.c
+  lv_draw_rect.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_draw\lv_draw_rect.c(1074,31): warning C4244: “=”: 从“uint16_t”转换到“lv_opa_t”，可能丢失数据
+  lv_draw_triangle.c
+  lv_img_buf.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_draw\lv_img_buf.c(296,29): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+  lv_img_cache.c
+  lv_img_decoder.c
+  正在生成代码...
+  正在编译...
+  lv_font.c
+  lv_font_dejavu_16_persian_hebrew.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_dejavu_16_persian_hebrew.c(2241,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_dejavu_16_persian_hebrew.c(2922,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_dejavu_16_persian_hebrew.c(3584,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_dejavu_16_persian_hebrew.c(4297,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_dejavu_16_persian_hebrew.c(5061,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_dejavu_16_persian_hebrew.c(5780,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_fmt_txt.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_fmt_txt.c(234,63): warning C4244: “=”: 从“lv_uintptr_t”转换到“uint32_t”，可能丢失数据
+  lv_font_loader.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_loader.c(277,1): warning C4267: “初始化”: 从“size_t”转换到“uint8_t”，可能丢失数据
+  lv_font_montserrat_10.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_10.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_10.c(844,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_12.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_12.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_12.c(795,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_12_subpx.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_12_subpx.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_12_subpx.c(795,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_14.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_14.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_14.c(772,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_14.c(1440,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_16.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_16.c(739,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_16.c(1403,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_18.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_18.c(715,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_18.c(1382,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_18.c(2011,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_20.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_20.c(698,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_20.c(1377,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_20.c(2004,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_22.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_22.c(667,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_22.c(1342,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_22.c(1959,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_22.c(2570,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_24.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_24.c(1332,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_24.c(1955,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_24.c(2565,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_24.c(3167,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_26.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_26.c(1311,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_26.c(1945,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_26.c(2552,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_26.c(3155,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_26.c(3754,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_28.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_28.c(1291,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_28.c(1944,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_28.c(2542,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_28.c(3148,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_28.c(3746,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_28_compressed.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_28_compressed.c(657,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_28_compressed.c(1319,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_28_compressed.c(1933,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_30.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_30.c(1927,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_30.c(2540,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_30.c(3133,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_30.c(3738,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_30.c(4330,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_32.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_32.c(1918,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_32.c(2546,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_32.c(3137,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_32.c(3734,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_32.c(4329,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_32.c(4919,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_34.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_34.c(2524,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_34.c(3125,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_34.c(3716,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_34.c(4313,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_34.c(4910,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_34.c(5496,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_34.c(6086,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_36.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_36.c(2514,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_36.c(3129,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_36.c(3725,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_36.c(4309,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_36.c(4911,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_36.c(5498,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_36.c(6083,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_36.c(6673,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  lv_font_montserrat_38.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(2509,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(3136,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(3728,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(4316,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(4905,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(5501,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(6088,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(6672,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_38.c(7261,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_40.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(3100,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(3720,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(4308,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(4896,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(5482,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(6080,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(6663,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(7247,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_40.c(7837,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_42.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(3708,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(4306,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(4892,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(5476,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(6063,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(6663,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(7248,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(7830,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(8411,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_42.c(8999,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_44.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(3704,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(4317,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(4907,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(5498,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(6074,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(6667,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(7267,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(7850,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(8432,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(9013,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_44.c(9602,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_46.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(4298,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(4899,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(5491,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(6077,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(6651,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(7244,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(7840,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(8431,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(9009,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(9591,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(10177,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_46.c(10757,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_48.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(4293,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(4908,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(5497,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(6079,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(6666,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(7239,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(7836,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(8433,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(9018,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(9596,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(10179,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(10766,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_48.c(11348,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_montserrat_8.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_montserrat_8.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_simsun_16_cjk.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(650,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(1324,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(1981,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(2643,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(3313,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(3968,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(4626,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(5280,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(5932,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(6589,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(7238,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(7887,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(8543,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(9192,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(9843,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(10486,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(11134,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(11781,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_font\lv_font_simsun_16_cjk.c(12426,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_font_unscii_8.c
+  lv_gpu_nxp_pxp.c
+  lv_gpu_nxp_pxp_osa.c
+  lv_gpu_nxp_vglite.c
+  lv_gpu_stm32_dma2d.c
+  lv_hal_disp.c
+  lv_hal_indev.c
+  lv_hal_tick.c
+  lv_anim.c
+  lv_area.c
+  lv_async.c
+  lv_bidi.c
+  正在生成代码...
+  正在编译...
+  lv_color.c
+  lv_debug.c
+  lv_fs.c
+  lv_gc.c
+  lv_ll.c
+  lv_log.c
+  lv_math.c
+  lv_mem.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_misc\lv_mem.c(215,81): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_misc\lv_mem.c(431,51): warning C4244: “+=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_misc\lv_mem.c(433,62): warning C4244: “=”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_misc\lv_mem.c(470,30): warning C4244: “return”: 从“uint64_t”转换到“uint32_t”，可能丢失数据
+  lv_printf.c
+  lv_task.c
+  lv_templ.c
+  lv_txt.c
+  lv_txt_ap.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_misc\lv_txt_ap.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  lv_utils.c
+  lv_theme.c
+  lv_theme_empty.c
+  lv_theme_material.c
+  lv_theme_mono.c
+  lv_theme_template.c
+  lv_arc.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_arc.c(575,25): warning C4244: “return”: 从“uint16_t”转换到“bool”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_arc.c(588,21): warning C4244: “return”: 从“uint16_t”转换到“lv_arc_type_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_arc.c(601,27): warning C4244: “return”: 从“uint16_t”转换到“bool”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  lv_bar.c
+  lv_btn.c
+  lv_btnmatrix.c
+  lv_calendar.c
+  lv_canvas.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_canvas.c(400,17): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_canvas.c(401,17): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_canvas.c(446,29): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_canvas.c(497,29): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_canvas.c(536,17): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_canvas.c(537,17): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_canvas.c(579,29): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_canvas.c(632,29): warning C4018: “>”: 有符号/无符号不匹配
+  lv_chart.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_chart.c(1119,90): warning C4244: “函数”: 从“lv_style_int_t”转换到“lv_opa_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_chart.c(1120,63): warning C4244: “函数”: 从“lv_style_int_t”转换到“lv_opa_t”，可能丢失数据
+  lv_checkbox.c
+  lv_cont.c
+  lv_cpicker.c
+  lv_dropdown.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_dropdown.c(321,49): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_dropdown.c(305,1): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  lv_gauge.c
+  lv_img.c
+  lv_imgbtn.c
+  lv_keyboard.c
+  lv_label.c
+  lv_led.c
+  lv_line.c
+  lv_linemeter.c
+  lv_list.c
+  lv_msgbox.c
+  正在生成代码...
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_imgbtn.c(192): warning C4717: “lv_imgbtn_toggle”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  正在编译...
+  lv_objmask.c
+  lv_objx_templ.c
+  lv_page.c
+  lv_roller.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_roller.c(183,73): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  lv_slider.c
+  lv_spinbox.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_spinbox.c(178,70): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_spinbox.c(179,76): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_spinbox.c(444,64): warning C4267: “函数”: 从“size_t”转换到“int32_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_spinbox.c(454,1): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  lv_spinner.c
+  lv_switch.c
+  lv_table.c
+  lv_tabview.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_tabview.c(242,65): warning C4090: “函数”: 不同的“const”限定符
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_tabview.c(253,65): warning C4090: “函数”: 不同的“const”限定符
+  lv_textarea.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\src\lv_widgets\lv_textarea.c(1665,66): warning C4267: “函数”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  lv_tileview.c
+  lv_win.c
+  lv_test_assert.c
+  lv_test_core.c
+  lv_test_font_loader.c
+  lv_test_obj.c
+  lv_test_style.c
+  font_1.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\tests\lv_test_fonts\font_1.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  font_2.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lvgl\tests\lv_test_fonts\font_2.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+  正在编译...
+  font_3.c
+  lv_test_main.c
+  lv_test_label.c
+  lv_cubic_gui.c
+  drm.c
+  fbdev.c
+  ILI9341.c
+  monitor.c
+  R61581.c
+  SHARP_MIP.c
+  SSD1963.c
+  ST7565.c
+  UC1610.c
+  gtkdrv.c
+  AD_touch.c
+  evdev.c
+  FT5406EE8.c
+  keyboard.c
+  libinput.c
+  mouse.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_drivers\indev\mouse.c(92,66): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_drivers\indev\mouse.c(93,66): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_drivers\indev\mouse.c(97,66): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_drivers\indev\mouse.c(98,66): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_drivers\indev\mouse.c(101,66): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_drivers\indev\mouse.c(102,66): warning C4244: “=”: 从“float”转换到“int16_t”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  mousewheel.c
+  XPT2046.c
+  win_drv.c
+  img_cogwheel_alpha16.c
+  img_cogwheel_argb.c
+  img_cogwheel_chroma_keyed.c
+  img_cogwheel_indexed16.c
+  img_cogwheel_rgb.c
+  img_hand.c
+  lv_font_montserrat_12_compr_az.c
+  lv_font_montserrat_16_compr_az.c
+  lv_font_montserrat_28_compr_az.c
+  lv_demo_benchmark.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_examples\src\lv_demo_benchmark\lv_demo_benchmark.c(886,18): warning C4018: “<”: 有符号/无符号不匹配
+  lv_demo_keypad_encoder.c
+  lv_demo_printer_icon_bright.c
+  lv_demo_printer_icon_eco.c
+  lv_demo_printer_icon_hue.c
+  lv_demo_printer_icon_pc.c
+  lv_demo_printer_icon_tel.c
+  lv_demo_printer_icon_wifi.c
+  正在生成代码...
+  正在编译...
+  lv_demo_printer_img_btn_bg_1.c
+  lv_demo_printer_img_btn_bg_2.c
+  lv_demo_printer_img_btn_bg_3.c
+  lv_demo_printer_img_btn_bg_4.c
+  lv_demo_printer_img_cloud.c
+  lv_demo_printer_img_copy.c
+  lv_demo_printer_img_internet.c
+  lv_demo_printer_img_mobile.c
+  lv_demo_printer_img_no_internet.c
+  lv_demo_printer_img_phone.c
+  lv_demo_printer_img_print.c
+  lv_demo_printer_img_printer2.c
+  lv_demo_printer_img_ready.c
+  lv_demo_printer_img_scan.c
+  lv_demo_printer_img_scan_example.c
+  lv_demo_printer_img_setup.c
+  lv_demo_printer_img_usb.c
+  lv_demo_printer_img_wave.c
+  lv_demo_printer.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_examples\src\lv_demo_printer\lv_demo_printer.c(1222,63): warning C4244: “函数”: 从“lv_anim_value_t”转换到“uint8_t”，可能丢失数据
+  lv_demo_printer_theme.c
+  正在生成代码...
+  正在编译...
+  lv_demo_stress.c
+  lv_demo_widgets.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_examples\src\lv_demo_widgets\lv_demo_widgets.c(606,10): warning C4018: “>”: 有符号/无符号不匹配
+  lv_ex_get_started_1.c
+  lv_ex_get_started_2.c
+  lv_ex_get_started_3.c
+  lv_ex_style_1.c
+  lv_ex_style_10.c
+  lv_ex_style_11.c
+  lv_ex_style_2.c
+  lv_ex_style_3.c
+  lv_ex_style_4.c
+  lv_ex_style_5.c
+  lv_ex_style_6.c
+  lv_ex_style_7.c
+  lv_ex_style_8.c
+  lv_ex_style_9.c
+  lv_ex_arc_1.c
+  lv_ex_arc_2.c
+  lv_ex_bar_1.c
+  lv_ex_btnmatrix_1.c
+  正在生成代码...
+  正在编译...
+  lv_ex_btn_1.c
+  lv_ex_btn_2.c
+  lv_ex_calendar_1.c
+  lv_ex_canvas_1.c
+  lv_ex_canvas_2.c
+  lv_ex_chart_1.c
+  lv_ex_chart_2.c
+  lv_ex_checkbox_1.c
+  lv_ex_cont_1.c
+  lv_ex_cpicker_1.c
+  lv_ex_cpicker_2.c
+  lv_ex_dropdown_1.c
+  lv_ex_dropdown_2.c
+  lv_ex_gauge_1.c
+  lv_ex_gauge_2.c
+  imgbtn_blue.c
+  imgbtn_green.c
+  lv_ex_imgbtn_1.c
+  lv_ex_img_1.c
+  lv_ex_img_2.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_examples\src\lv_ex_widgets\lv_ex_img\lv_ex_img_2.c(28,74): warning C4244: “函数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_examples\src\lv_ex_widgets\lv_ex_img\lv_ex_img_2.c(28,109): warning C4244: “函数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_examples\src\lv_ex_widgets\lv_ex_img\lv_ex_img_2.c(28,143): warning C4244: “函数”: 从“int16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_examples\src\lv_ex_widgets\lv_ex_img\lv_ex_img_2.c(29,1): warning C4244: “初始化”: 从“int16_t”转换到“lv_opa_t”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  lv_ex_img_3.c
+  lv_ex_keyboard_1.c
+  lv_ex_label_1.c
+  lv_ex_label_2.c
+  lv_ex_label_3.c
+  lv_ex_led_1.c
+  lv_ex_linemeter_1.c
+  lv_ex_line_1.c
+  lv_ex_list_1.c
+  lv_ex_msgbox_1.c
+  lv_ex_msgbox_2.c
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\lv_examples\src\lv_ex_widgets\lv_ex_msgbox\lv_ex_msgbox_2.c(91,76): warning C4244: “函数”: 从“lv_anim_value_t”转换到“lv_opa_t”，可能丢失数据
+  lv_ex_objmask_1.c
+  lv_ex_objmask_2.c
+  lv_ex_obj_1.c
+  lv_ex_page_1.c
+  lv_ex_roller_1.c
+  lv_ex_slider_1.c
+  lv_ex_slider_2.c
+  lv_ex_spinbox_1.c
+  lv_ex_spinner_1.c
+  正在生成代码...
+  正在编译...
+  lv_ex_switch_1.c
+  lv_ex_table_1.c
+  lv_ex_tabview_1.c
+  lv_ex_templ.c
+  lv_ex_textarea_1.c
+  lv_ex_textarea_2.c
+  lv_ex_textarea_3.c
+  lv_ex_tileview_1.c
+  lv_ex_win_1.c
+  正在生成代码...
+  lvgl_similator.cpp
+  lvgl_similator.vcxproj -> C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\x64\Debug\lvgl_similator.exe

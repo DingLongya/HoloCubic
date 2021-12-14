@@ -1,0 +1,2 @@
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\x64\Debug\lvgl_similator.exe
+C:\Users\lenono\Desktop\新建文件夹\HoloCubic\3.Software\LvglSimulator\vs2019_proj\x64\Debug\lvgl_similator.pdb
