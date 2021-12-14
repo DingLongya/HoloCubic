@@ -142,3 +142,14 @@ PCB 板的打印我选择的是嘉立创，PCB 在线下单，也是通过朋友
 ![](/images/LV_3.png)
 
 到这里用 VS Code 仿真 LVGL 就算是成功了。
+
+## 练习
+
+### 用 AD 画一个 ExtandBoard
+
+在等待元件的过程中，可以学习画 AD ，使用 Altium Designer 来仿照稚晖君的电路板的绘画出原理图和 PCB 图，在这个过程中，可以学到  Altium Designer 的简单使用，原理图和 PCB 图的绘画。相关的参考步骤可以去 CSDN https://blog.csdn.net/qq_45459526/category_11536027.html?spm=1001.2014.3001.5482 查看 。
+
+
+
+
+
