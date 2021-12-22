@@ -23,3 +23,13 @@
 ![](/images/LV_1.png)
 
 解决方法：需要配置 C/C++环境，可以看教程https://blog.csdn.net/qq_29339467/article/details/104096661?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522163936862216780366512016%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=163936862216780366512016&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-2-104096661.pc_search_result_control_group&utm_term=vscode%E9%85%8D%E7%BD%AEc%2B%2B%E7%8E%AF%E5%A2%83&spm=1018.2226.3001.4187来就可以了，我配置完以后就可以正常编译这个工程文件了，但是我自己建立的 .cpp 文件还是不可以，可能建立的有问题。 
+
+
+
+4.焊接完以后，电脑不识别板子
+
+解决方法：芯片虚焊，重新焊接。
+
+5.焊接是个大问题
+
+解决方法：买一个放大镜，细心一些。

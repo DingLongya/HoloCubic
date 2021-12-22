@@ -1,7 +1,8 @@
 # HoloCubic
 
-* 参考稚晖君HoloCubic项目地址：https://github.com/peng-zhihui/HoloCubic.git
-* 自己的项目地址：https://github.com/DingLongya/HoloCubic.git
+* 参考稚晖君项目地址：https://github.com/peng-zhihui/HoloCubic.git
+* 参考ClimbSnail项目地址：https://github.com/ClimbSnail/HoloCubic_AIO
+* 参考教程 UP：一叶知秋君莫笑我 https://www.bilibili.com/video/BV11h41147iJ
 
 ## 简介
 
@@ -11,11 +12,7 @@
 
 ### 成品展示
 
-稚晖君的HoloCubic
-
-![](/images/Holo1.jpg)
-
-![](/images/Holo2.jpg)
+![](/images/y_1.jpg)
 
 ## 硬件部分
 
@@ -171,17 +168,29 @@ CSDN https://blog.csdn.net/qq_45459526/article/details/121959702?spm=1001.2014.3
 
 ## 焊接
 
+焊接的过程需要细心，因为元件很小很小。
 
+![](/images/H (1).jpg)
+
+![](/images/H (3).jpg)
+
+![](/images/H (2).jpg)
+
+![](/images/H (4).jpg)
 
 ## 组装
 
+![](/images/p_2.jpg)
 
+![](/images/p_1.jpg)
+
+ps:外壳需要螺丝，但是最后没办法，我直接用 uv 胶水固化了，也是可以的。
 
 ## 作品演示
 
+演示视频可以去：https://b23.tv/eteRlfE
 
 
-## 总结
 
 
 
