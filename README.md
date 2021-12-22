@@ -170,13 +170,13 @@ CSDN https://blog.csdn.net/qq_45459526/article/details/121959702?spm=1001.2014.3
 
 焊接的过程需要细心，因为元件很小很小。
 
-![](/images/H (1).jpg)
+![](/images/H1.jpg)
 
-![](/images/H (3).jpg)
+![](/images/H3.jpg)
 
-![](/images/H (2).jpg)
+![](/images/H2.jpg)
 
-![](/images/H (4).jpg)
+![](/images/H4.jpg)
 
 ## 组装
 
